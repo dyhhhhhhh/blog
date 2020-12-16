@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/blog/',
   title: 'Heng的博客',
   description: '前端',
   themeConfig: {
